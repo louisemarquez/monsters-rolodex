@@ -1,6 +1,6 @@
-## Monsters-rolodex-complete
+## Monsters Rolodex
 
-The completed version of our monsters rolodex project!
+The completed version of monsters rolodex project!
 
 Monsters Rolodex is a web application that is used for searching up an individual within a directory.
 
