@@ -2,6 +2,8 @@
 
 The completed version of our monsters rolodex project!
 
+Monsters Rolodex is a web application that is used for searching up an individual within a directory.
+
 # How to fork and clone
 
 One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
